@@ -6,7 +6,7 @@ from telegram.ext.commandhandler import CommandHandler
 from telegram.ext.messagehandler import MessageHandler
 from telegram.ext.filters import Filters
 # from telethon import TelegramClient
-updater = Updater("5235802270:AAFuB_Rg7CRAENhlEuuQuvz_pWAMulZ4m18",
+updater = Updater("your_telegram_id",
                   use_context=True)
 # api_id = '9974563'
 # api_hash ='8e8b8c6029b3fb95d5c4908af0f5122d'
